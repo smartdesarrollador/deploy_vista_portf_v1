@@ -1,0 +1,1 @@
+import{Db as o,Ib as r,ea as i,pb as a,qb as n}from"./chunk-QV7BRTPX.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["app-service-detail"]],standalone:!0,features:[r],decls:2,vars:0,template:function(e,l){e&1&&(a(0,"p"),o(1,"service-detail works!"),n())}})};export{s as ServiceDetailComponent};

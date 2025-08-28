@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{Eb as r,_ as i,lb as a,mb as n,zb as o}from"./chunk-PKPA7ZZM.mjs";import"./chunk-5XUXGTUW.mjs";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["app-service-detail"]],standalone:!0,features:[r],decls:2,vars:0,template:function(e,l){e&1&&(a(0,"p"),o(1,"service-detail works!"),n())}})};export{s as ServiceDetailComponent};

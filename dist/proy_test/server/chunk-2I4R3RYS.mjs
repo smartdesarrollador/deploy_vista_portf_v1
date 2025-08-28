@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{Eb as p,_ as o,lb as a,mb as n,zb as i}from"./chunk-PKPA7ZZM.mjs";import"./chunk-5XUXGTUW.mjs";var r=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-project-detail"]],standalone:!0,features:[p],decls:2,vars:0,template:function(e,l){e&1&&(a(0,"p"),i(1,"project-detail works!"),n())}})};export{r as ProjectDetailComponent};

@@ -1,0 +1,1 @@
+import{Db as a,Ib as p,ea as o,pb as n,qb as s}from"./chunk-QV7BRTPX.js";var i=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=o({type:e,selectors:[["app-blog-post"]],standalone:!0,features:[p],decls:2,vars:0,template:function(t,r){t&1&&(n(0,"p"),a(1,"blog-post works!"),s())}})};export{i as BlogPostComponent};
